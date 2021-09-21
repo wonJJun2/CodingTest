@@ -9,3 +9,5 @@ CodingTest #3 = 고양이
 CodingTest #4 = a+b
 
 CodingTest #5 = 사칙연산
+
+CodingTest #6 = 나머지
