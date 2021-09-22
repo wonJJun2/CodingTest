@@ -11,3 +11,5 @@ CodingTest #4 = a+b
 CodingTest #5 = 사칙연산
 
 CodingTest #6 = 나머지
+
+CodingTest #7 = 곱셈
