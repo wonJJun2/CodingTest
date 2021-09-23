@@ -13,3 +13,5 @@ CodingTest #5 = 사칙연산
 CodingTest #6 = 나머지
 
 CodingTest #7 = 곱셈
+
+CodingTest #8 = 두 수 비교하기
