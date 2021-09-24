@@ -15,3 +15,5 @@ CodingTest #6 = 나머지
 CodingTest #7 = 곱셈
 
 CodingTest #8 = 두 수 비교하기
+
+CodingTest #9 = 시험 성적
