@@ -17,3 +17,7 @@ CodingTest #7 = 곱셈
 CodingTest #8 = 두 수 비교하기
 
 CodingTest #9 = 시험 성적
+
+CodingTest #10 = 윤년
+
+CodingTest #11 = 사분면 고르기
