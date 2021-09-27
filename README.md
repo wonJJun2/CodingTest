@@ -21,3 +21,5 @@ CodingTest #9 = 시험 성적
 CodingTest #10 = 윤년
 
 CodingTest #11 = 사분면 고르기
+
+CodingTest #12 = 알람시계
