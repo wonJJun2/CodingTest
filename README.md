@@ -23,3 +23,5 @@ CodingTest #10 = 윤년
 CodingTest #11 = 사분면 고르기
 
 CodingTest #12 = 알람시계
+
+CodingTest #13 = 구구단
