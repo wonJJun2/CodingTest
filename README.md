@@ -27,3 +27,5 @@ CodingTest #12 = 알람시계
 CodingTest #13 = 구구단
 
 CodingTest #14 = a+b
+
+CodingTest #15 = 1부터 n까지의 합
