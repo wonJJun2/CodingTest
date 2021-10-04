@@ -36,4 +36,4 @@ CodingTest #17 = N 찍기
 
 CodingTest #18 = 역순 N 찍기
 
-CodingTest #19 
+CodingTest #19 = a+b-7
