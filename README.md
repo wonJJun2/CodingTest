@@ -39,3 +39,5 @@ CodingTest #18 = 역순 N 찍기
 CodingTest #19 = a+b-7
 
 CodingTest #20 = a+b-8
+
+CodingTest #21 = 
