@@ -40,4 +40,6 @@ CodingTest #19 = a+b-7
 
 CodingTest #20 = a+b-8
 
-CodingTest #21 = 
+CodingTest #21 = 별찍기
+
+CodingTest #22 = 별찍기-2
