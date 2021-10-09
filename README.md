@@ -45,3 +45,5 @@ CodingTest #21 = 별찍기
 CodingTest #22 = 별찍기-2
 
 CodingTest #23 = X보다 작은 수
+
+CodingTest #24 = a+b-5
