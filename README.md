@@ -50,4 +50,4 @@ CodingTest #24 = a+b-5
 
 CodingTest #25 = a+b-4
 
-CodingTest #26 = 더하기 
+CodingTest #26 = 더하기 사이클
