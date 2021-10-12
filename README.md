@@ -52,4 +52,4 @@ CodingTest #25 = a+b-4
 
 CodingTest #26 = 더하기 사이클
 
-CodingTest #27 = 
+CodingTest #27 = 최소, 최대 
