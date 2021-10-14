@@ -55,3 +55,5 @@ CodingTest #26 = 더하기 사이클
 CodingTest #27 = 최소, 최대 
 
 CodingTest #28 = 최댓값 
+
+CodingTest #29 = 숫자의 개수 
