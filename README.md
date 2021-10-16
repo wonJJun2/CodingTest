@@ -59,3 +59,5 @@ CodingTest #28 = 최댓값
 CodingTest #29 = 숫자의 개수 
 
 CodingTest #30 = 나머지 
+
+CodingTest #31 = 평균 
