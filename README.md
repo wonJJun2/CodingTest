@@ -63,3 +63,5 @@ CodingTest #30 = 나머지
 CodingTest #31 = 평균 
 
 CodingTest #32 = OX퀴즈 
+
+CodingTest #33 = 평균은 넘겠지 
