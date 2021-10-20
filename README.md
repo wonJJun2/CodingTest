@@ -67,3 +67,5 @@ CodingTest #32 = OX퀴즈
 CodingTest #33 = 평균은 넘겠지 
 
 CodingTest #34 = 정수 N개의 합 
+
+CodingTest #35 = 셀프 넘버 
