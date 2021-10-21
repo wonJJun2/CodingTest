@@ -69,3 +69,5 @@ CodingTest #33 = 평균은 넘겠지
 CodingTest #34 = 정수 N개의 합 
 
 CodingTest #35 = 셀프 넘버 
+
+CodingTest #36 = 한수 
