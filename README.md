@@ -73,3 +73,5 @@ CodingTest #35 = 셀프 넘버
 CodingTest #36 = 한수 
 
 CodingTest #37 = 아스키 코드 
+
+CodingTest #38 = 숫자의 합 
