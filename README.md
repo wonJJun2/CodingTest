@@ -79,3 +79,5 @@ CodingTest #38 = 숫자의 합
 CodingTest #39 = 알파벳 찾기 
 
 CodingTest #40 = 문자열 반복 
+
+CodingTest #41 = 단어 공부 
