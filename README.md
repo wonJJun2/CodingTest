@@ -81,3 +81,5 @@ CodingTest #39 = 알파벳 찾기
 CodingTest #40 = 문자열 반복 
 
 CodingTest #41 = 단어 공부 
+
+CodingTest #42 = 단어의 개수 
