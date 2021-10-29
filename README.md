@@ -85,3 +85,5 @@ CodingTest #41 = 단어 공부
 CodingTest #42 = 단어의 개수 
 
 CodingTest #43 = 상수 
+
+CodingTest #44 = 다이얼 
