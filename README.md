@@ -92,4 +92,6 @@ CodingTest #45 = 크로아티아 알파벳
 
 CodingTest #46 = 그룹 단어 체커 
 
-CodingTest #47 = 손익분기점 
+CodingTest #47 = 손익분기점
+
+CodingTest #48 = 벌집 
