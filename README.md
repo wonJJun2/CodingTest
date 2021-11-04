@@ -97,3 +97,5 @@ CodingTest #47 = 손익분기점
 CodingTest #48 = 벌집 
 
 CodingTest #49 = 분수찾기 
+
+CodingTest #50 = 달팽이는 올라가고 
