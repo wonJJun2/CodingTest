@@ -98,4 +98,6 @@ CodingTest #48 = 벌집
 
 CodingTest #49 = 분수찾기 
 
-CodingTest #50 = 달팽이는 올라가고 
+CodingTest #50 = 달팽이는 올라가고 싶다
+
+CodingTest #51 = ACM 호텔 
