@@ -101,3 +101,5 @@ CodingTest #49 = 분수찾기
 CodingTest #50 = 달팽이는 올라가고 싶다
 
 CodingTest #51 = ACM 호텔 
+
+CodingTest #52 = 부녀회장이 될테야 
