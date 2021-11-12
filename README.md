@@ -111,3 +111,5 @@ CodingTest #54 = 큰 수 A+B
 CodingTest #55 = Fly em to the Alpha Centauri 
 
 CodingTest #56 = 소수 찾기 
+
+CodingTest #57 = 소수
