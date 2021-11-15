@@ -113,3 +113,5 @@ CodingTest #55 = Fly em to the Alpha Centauri
 CodingTest #56 = 소수 찾기 
 
 CodingTest #57 = 소수
+
+CodingTest #58 = 소인수분해 
