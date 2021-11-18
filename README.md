@@ -117,3 +117,5 @@ CodingTest #57 = 소수
 CodingTest #58 = 소인수분해 
 
 CodingTest #59 = 소수 구하기  
+
+CodingTest #60 = 베르트랑 공준  
