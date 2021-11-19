@@ -119,3 +119,5 @@ CodingTest #58 = 소인수분해
 CodingTest #59 = 소수 구하기  
 
 CodingTest #60 = 베르트랑 공준  
+
+CodingTest #61 = 골드바흐의 추측 
