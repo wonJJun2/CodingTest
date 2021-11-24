@@ -125,3 +125,5 @@ CodingTest #61 = 골드바흐의 추측
 CodingTest #62 = 직사각형에서 탈출 
 
 CodingTest #63 = 네번째 점 
+
+CodingTest #64 = 직각삼각형 
