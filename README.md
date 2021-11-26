@@ -129,3 +129,5 @@ CodingTest #63 = 네번째 점
 CodingTest #64 = 직각삼각형 
 
 CodingTest #65 = 택시 기하학 
+
+CodingTest #66 = 터렛 
