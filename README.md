@@ -135,3 +135,5 @@ CodingTest #66 = 터렛
 CodingTest #67 = 팩토리얼 
 
 CodingTest #68 = 피보나치 수 5 
+
+CodingTest #69 = 별 찍기 10  
