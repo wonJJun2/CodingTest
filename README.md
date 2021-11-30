@@ -137,3 +137,5 @@ CodingTest #67 = 팩토리얼
 CodingTest #68 = 피보나치 수 5 
 
 CodingTest #69 = 별 찍기 10  
+
+CodingTest #70 = 수 정렬하기 
