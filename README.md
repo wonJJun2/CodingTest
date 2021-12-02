@@ -141,3 +141,5 @@ CodingTest #69 = 별 찍기 10
 CodingTest #70 = 수 정렬하기 
 
 CodingTest #71 = 단어 뒤집기 
+
+CodingTest #72 = 괄호 
