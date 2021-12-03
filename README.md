@@ -143,3 +143,5 @@ CodingTest #70 = 수 정렬하기
 CodingTest #71 = 단어 뒤집기 
 
 CodingTest #72 = 괄호 
+
+CodingTest #73 = 요세푸스 문제 
