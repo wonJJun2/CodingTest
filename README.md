@@ -145,3 +145,5 @@ CodingTest #71 = 단어 뒤집기
 CodingTest #72 = 괄호 
 
 CodingTest #73 = 요세푸스 문제 
+
+CodingTest #74 = 하노이 탑 이동 순서 
