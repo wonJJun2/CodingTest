@@ -1,4 +1,4 @@
-# [BAEKJOON] CodingTest
+# [BAEKJOON, codeup] CodingTest
 
 CodingTest #1 = Hello World!
 
@@ -149,3 +149,5 @@ CodingTest #73 = 요세푸스 문제
 CodingTest #74 = 하노이 탑 이동 순서 
 
 CodingTest #75 = 블랙잭  
+
+CodingTest #76 = 연월일 입력받아 순서 바꿔 출력하기
