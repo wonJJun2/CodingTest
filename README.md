@@ -153,3 +153,5 @@ CodingTest #75 = 블랙잭
 CodingTest #76 = 연월일 입력받아 순서 바꿔 출력하기
 
 CodingTest #77 = 주민번호 입력받아 형태 바꿔 출력하기 
+
+CodingTest #78 = 10진 정수 입력받아 16진수로 출력하기1 
