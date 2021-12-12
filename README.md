@@ -161,3 +161,5 @@ CodingTest #79 = 16진 정수 입력받아 8진수로 출력하기
 CodingTest #80 = 참 거짓 바꾸기 
 
 CodingTest #81 = 둘 다 참일 경우만 참 출력하기 
+
+CodingTest #82 = 정수 2개 입력받아 큰 값 출력하기 
