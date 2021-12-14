@@ -165,3 +165,5 @@ CodingTest #81 = 둘 다 참일 경우만 참 출력하기
 CodingTest #82 = 정수 2개 입력받아 큰 값 출력하기 
 
 CodingTest #83 = 0 입력될 때까지 무한 출력하기 
+
+CodingTest #84 = 정수 1개 입력받아 카운트다운 출력하기  
