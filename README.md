@@ -173,3 +173,5 @@ CodingTest #85 = 문자 1개 입력받아 알파벳 출력하기
 CodingTest #86 = 정수 1개 입력받아 그 수까지 출력하기 
 
 CodingTest #87 = 짝수 합 구하기 
+
+CodingTest #88 = 주사위 2개 던지기 
