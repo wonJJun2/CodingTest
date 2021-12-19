@@ -175,3 +175,5 @@ CodingTest #86 = 정수 1개 입력받아 그 수까지 출력하기
 CodingTest #87 = 짝수 합 구하기 
 
 CodingTest #88 = 주사위 2개 던지기 
+
+CodingTest #89 = 16진수 구구단 출력하기 
