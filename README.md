@@ -177,3 +177,5 @@ CodingTest #87 = 짝수 합 구하기
 CodingTest #88 = 주사위 2개 던지기 
 
 CodingTest #89 = 16진수 구구단 출력하기 
+
+CodingTest #90 = 3 6 9 게임의 왕이 되자 
