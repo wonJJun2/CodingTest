@@ -181,3 +181,5 @@ CodingTest #89 = 16진수 구구단 출력하기
 CodingTest #90 = 3 6 9 게임의 왕이 되자 
 
 CodingTest #91 = 빛 섞어 색 만들기 
+
+CodingTest #92 = 소리 파일 저장용량 계산하기 
