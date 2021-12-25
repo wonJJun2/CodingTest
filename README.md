@@ -187,3 +187,5 @@ CodingTest #92 = 소리 파일 저장용량 계산하기
 CodingTest #93 = 거기까지! 이제 그만~ 
 
 CodingTest #94 = 3의 배수는 통과 
+
+CodingTest #95 = 수 나열하기 1 
