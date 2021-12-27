@@ -191,3 +191,5 @@ CodingTest #94 = 3의 배수는 통과
 CodingTest #95 = 수 나열하기 1 
 
 CodingTest #96 = 수 나열하기 2  
+
+CodingTest #97 = 수 나열하기 3 
