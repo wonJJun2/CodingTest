@@ -195,3 +195,5 @@ CodingTest #96 = 수 나열하기 2
 CodingTest #97 = 수 나열하기 3 
 
 CodingTest #98 = 함께 문제 푸는 날 
+
+CodingTest #99 = 이상한 출석 번호 부르기1 
