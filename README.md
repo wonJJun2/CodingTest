@@ -201,3 +201,5 @@ CodingTest #99 = 이상한 출석 번호 부르기1
 CodingTest #100 = 이상한 출석 번호 부르기2  
 
 CodingTest #101 = 이상한 출석 번호 부르기3 
+
+CodingTest #102 = 바둑판에 흰 돌 놓기
