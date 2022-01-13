@@ -225,3 +225,5 @@ CodingTest #111 = 논리연산자(NOT)
 CodingTest #112 = 논리연산자(AND) 
 
 CodingTest #113 = 논리연산자(OR) 
+
+CodingTest #114 = 세 수 중 가장 작은 수 
