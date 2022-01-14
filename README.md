@@ -227,3 +227,5 @@ CodingTest #112 = 논리연산자(AND)
 CodingTest #113 = 논리연산자(OR) 
 
 CodingTest #114 = 세 수 중 가장 작은 수 
+
+CodingTest #115 = 정수 3개 입력받아 짝수만 출력하기 
