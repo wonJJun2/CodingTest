@@ -233,3 +233,5 @@ CodingTest #115 = 정수 3개 입력받아 짝수만 출력하기
 CodingTest #116 = 10보다 작은 수 
 
 CodingTest #117 = 큰 수 - 작은 수 
+
+CodingTest #118 = 7의 배수 
