@@ -241,3 +241,5 @@ CodingTest #119 = 홀수 짝수 구별
 CodingTest #120 = 특별한 공 던지기 1 
 
 CodingTest #121 = 특별한 공 던지기 2 
+
+CodingTest #122 = 특별한 공 던지기 3 
