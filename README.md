@@ -249,3 +249,5 @@ CodingTest #123 = 아르바이트 가는 날
 CodingTest #124 = 홀수와 짝수 그리고 더하기 
 
 CodingTest #125 = 당신의 사주를 봐 드립니다 1
+
+CodingTest #126 = 당신의 사주를 봐 드립니다 2 
