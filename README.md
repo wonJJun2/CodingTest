@@ -255,3 +255,5 @@ CodingTest #126 = 당신의 사주를 봐 드립니다 2
 CodingTest #127 = 터널 통과하기 1  
 
 CodingTest #128 = 축구의 신 1  
+
+CodingTest #129 = 두 번째 작은 수 
