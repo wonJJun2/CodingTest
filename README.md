@@ -1,4 +1,4 @@
-# [BAEKJOON, codeup] CodingTest
+# [BAEKJOON, CodeUp, 프로그래머스] CodingTest
 
 CodingTest #1 = Hello World!
 
