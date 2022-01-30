@@ -259,3 +259,5 @@ CodingTest #128 = 축구의 신 1
 CodingTest #129 = 두 번째 작은 수 
 
 CodingTest #130 = 나이 계산 1 
+
+CodingTest #131 = 나이 계산 2 
