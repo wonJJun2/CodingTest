@@ -262,4 +262,4 @@ CodingTest #130 = 나이 계산 1
 
 CodingTest #131 = 나이 계산 2 
 
-CodingTest #132 = K번 수 
+CodingTest #132 = K번째 수  
