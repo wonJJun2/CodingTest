@@ -280,3 +280,4 @@ CodingTest #139 = 문자열 다루기 기본
 
 CodingTest #140 = 문자열 내 p와 y의 개수
  
+CodingTest #141 = 문자열을 정수로 바꾸기 
