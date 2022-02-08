@@ -277,3 +277,6 @@ CodingTest #137 = 완주하지 못한 선수
 CodingTest #138 = 자릿수 더하기 
 
 CodingTest #139 = 문자열 다루기 기본 
+
+CodingTest #140 = 문자열 내 p와 y의 개수
+ 
