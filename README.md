@@ -285,3 +285,5 @@ CodingTest #141 = 문자열을 정수로 바꾸기
 CodingTest #142 = 핸드폰 번호 가리기  
 
 CodingTest #143 = 수박수박수박수박수박수? 
+
+CodingTest #144 = x만큼 간격이 있는 n개의 숫자 
