@@ -293,3 +293,5 @@ CodingTest #145 = 정수 내림차순으로 배치하기
 CodingTest #146 = 모의고사 
 
 CodingTest #147 = 문자열 내림차순으로 배치하기
+
+CodingTest #148 = 같은 숫자는 싫어
