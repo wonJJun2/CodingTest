@@ -299,3 +299,5 @@ CodingTest #148 = 같은 숫자는 싫어
 CodingTest #149 = 약수의 합
 
 CodingTest #150 = 나머지가 1이 되는 수 찾기
+
+CodingTest #151 = 부족한 금액 계산하기
