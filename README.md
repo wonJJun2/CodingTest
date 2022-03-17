@@ -303,3 +303,5 @@ CodingTest #150 = 나머지가 1이 되는 수 찾기
 CodingTest #151 = 부족한 금액 계산하기
 
 CodingTest #152 = 제일 작은 수 제거하기
+
+CodingTest #153 = 자연수 뒤집어 배열로 만들기
