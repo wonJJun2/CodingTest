@@ -307,3 +307,5 @@ CodingTest #152 = 제일 작은 수 제거하기
 CodingTest #153 = 자연수 뒤집어 배열로 만들기
 
 CodingTest #154 = 정수 제곱근 판별
+
+CodingTest #155 = 서울에서 김서방 찾기
