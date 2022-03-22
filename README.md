@@ -313,3 +313,5 @@ CodingTest #155 = 서울에서 김서방 찾기
 CodingTest #156 = 예산
 
 CodingTest #157 = 직사각형 별찍기
+
+CodingTest #158 = 내적
