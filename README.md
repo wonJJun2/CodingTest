@@ -315,3 +315,5 @@ CodingTest #156 = 예산
 CodingTest #157 = 직사각형 별찍기
 
 CodingTest #158 = 내적
+
+CodingTest #158 = 약수의 개수와 덧셈
