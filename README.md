@@ -316,4 +316,6 @@ CodingTest #157 = 직사각형 별찍기
 
 CodingTest #158 = 내적
 
-CodingTest #158 = 약수의 개수와 덧셈
+CodingTest #159 = 약수의 개수와 덧셈
+
+CodingTest #160 = 나누어 떨어지는 숫자 배열
