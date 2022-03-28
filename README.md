@@ -325,3 +325,5 @@ CodingTest #161 = 행렬의 덧셈
 CodingTest #162 = 콜라츠 추측
 
 CodingTest #163 = 이상한 문자 만들기
+
+CodingTest #164 = 두 개 뽑아서 더하기
