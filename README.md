@@ -332,4 +332,6 @@ CodingTest #165 = 하샤드 수
 
 CodingTest #166 = 음양 더하기
 
-CodingTest #166 = 없는 숫자 더하기
+CodingTest #167 = 없는 숫자 더하기
+
+CodingTest #168 = 소수 찾기
