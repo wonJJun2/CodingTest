@@ -337,3 +337,5 @@ CodingTest #167 = 없는 숫자 더하기
 CodingTest #168 = 소수 찾기
 
 CodingTest #169 = 문자열 내 마음대로 정렬하기
+
+CodingTest #170 = 숫자 문자열과 영단어
