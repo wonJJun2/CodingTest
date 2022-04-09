@@ -343,3 +343,5 @@ CodingTest #170 = 숫자 문자열과 영단어
 CodingTest #171 = 신규 아이디 추천
 
 CodingTest #172 = 체육복
+
+CodingTest #173 = 로또의 최고 순위와 최저 순위
