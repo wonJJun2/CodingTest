@@ -349,3 +349,5 @@ CodingTest #173 = 로또의 최고 순위와 최저 순위
 CodingTest #174 = 시저 암호
 
 CodingTest #175 = 2016년
+
+CodingTest #176 = 3진법 뒤집기
