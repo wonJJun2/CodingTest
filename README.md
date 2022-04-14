@@ -351,3 +351,5 @@ CodingTest #174 = 시저 암호
 CodingTest #175 = 2016년
 
 CodingTest #176 = 3진법 뒤집기
+
+CodingTest #177 = 폰켓몬
