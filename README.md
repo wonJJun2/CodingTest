@@ -353,3 +353,5 @@ CodingTest #175 = 2016년
 CodingTest #176 = 3진법 뒤집기
 
 CodingTest #177 = 폰켓몬
+
+CodingTest #178 = 최소 직사각형
