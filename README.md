@@ -357,3 +357,5 @@ CodingTest #177 = 폰켓몬
 CodingTest #178 = 최소 직사각형
 
 CodingTest #179 = 최대공약수와 최소공배수
+
+CodingTest #180 = 주사위 세개
