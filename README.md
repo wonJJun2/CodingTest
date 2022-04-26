@@ -369,3 +369,5 @@ CodingTest #183 = 통계학
 CodingTest #184 = 소트인사이드
 
 CodingTest #185 = 배수와 약수
+
+CodingTest #186 = 나이순 정렬
