@@ -371,3 +371,5 @@ CodingTest #184 = 소트인사이드
 CodingTest #185 = 배수와 약수
 
 CodingTest #186 = 나이순 정렬
+
+CodingTest #187 = 수 정렬하기 3
