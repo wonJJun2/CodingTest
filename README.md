@@ -375,3 +375,5 @@ CodingTest #186 = 나이순 정렬
 CodingTest #187 = 수 정렬하기 3
 
 CodingTest #188 = 약수
+
+CodingTest #189 = 오븐 시계
