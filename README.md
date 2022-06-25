@@ -384,8 +384,6 @@ CodingTest #191 = 대칭 차집합
 
 CodingTest #192 = 이항 계수1
 
-<<<<<<< HEAD
 CodingTest #193 = 나머지
-=======
-CodingTest #193 = 나머지 
->>>>>>> 099bc2385054e7b1de9f11b83a9aa776916a918f
+
+CodingTest #194 = 최대공약수와 최소공배수 
