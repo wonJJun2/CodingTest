@@ -387,3 +387,5 @@ CodingTest #192 = 이항 계수1
 CodingTest #193 = 나머지
 
 CodingTest #194 = 최대공약수와 최소공배수 
+
+CodingTest #195 = 최소공배수 
