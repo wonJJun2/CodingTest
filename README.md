@@ -391,3 +391,5 @@ CodingTest #194 = 최대공약수와 최소공배수
 CodingTest #195 = 최소공배수 
 
 CodingTest #196 = 좌표 정렬하기 
+
+CodingTest #197 = 제로 
