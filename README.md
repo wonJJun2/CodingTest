@@ -392,4 +392,6 @@ CodingTest #195 = 최소공배수
 
 CodingTest #196 = 좌표 정렬하기 
 
-CodingTest #197 = 제로 
+CodingTest #197 = 제로
+
+CodingTest #198 = 1998년생인 내가 태국에서는 2541년생?!
