@@ -1,0 +1,4 @@
+SELECT COUNT(ANIMAL_ID) FROM ANIMAL_INS;
+
+# 단순히 테이블 칼럼의 수를 계산하는 문제.
+SELECT COUNT(*) FROM ANIMAL_INS;
